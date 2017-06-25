@@ -10,4 +10,8 @@ public class Hotel {
         System.out.println("hello git");
     }
 
+    public void info(){
+        System.out.println("holiday hotel");
+    }
+
 }
