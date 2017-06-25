@@ -13,6 +13,7 @@ public class Hotel {
 
     public void info(){
         System.out.println("holiday hotel");
+        System.out.println("test hetel");
     }
 
 }
